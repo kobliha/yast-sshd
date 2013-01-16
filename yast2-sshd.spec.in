@@ -33,3 +33,4 @@ This package contains the YaST2 component for SSH server configuration.
 @desktopdir@/sshd.desktop
 @schemadir@/autoyast/rnc/sshd_config.rnc
 %doc @docdir@
+%readme @docdir@/README
